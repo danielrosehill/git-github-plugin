@@ -1,0 +1,48 @@
+{
+  "name": "git-github",
+  "description": "Claude Code plugin for Git version control, GitHub repository management, and collaborative development workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/git-github-plugin"
+  },
+  "commands": [
+    "./commands/docs/add-repo-index.md",
+    "./commands/docs/awesome-scratchpad.md",
+    "./commands/docs/create-repo-index.md",
+    "./commands/docs/readme/create-readme.md",
+    "./commands/docs/readme/stopgap-readme.md",
+    "./commands/ignore/add-git-ignore.md",
+    "./commands/ignore/add-gitkeep.md",
+    "./commands/ignore/check-global-gitignore.md",
+    "./commands/install-gh-cli.md",
+    "./commands/install-github-program.md",
+    "./commands/lfs/add-git-lfs.md",
+    "./commands/lfs/retro-lfs.md",
+    "./commands/license/add-mit-license.md",
+    "./commands/misc/check-git-config.md",
+    "./commands/misc/clean-repo.md",
+    "./commands/misc/install-gh-cli.md",
+    "./commands/misc/install-github-program.md",
+    "./commands/misc/installation-clis-install-gh-cli.md",
+    "./commands/misc/merge-videos.md",
+    "./commands/misc/program-management-install-github-program.md",
+    "./commands/misc/repo-merge.md",
+    "./commands/misc/verify-github-cli.md",
+    "./commands/setup/check-git-config.md",
+    "./commands/setup/configuration-git-check-git-config.md",
+    "./commands/setup/configuration-git-check-global-gitignore.md",
+    "./commands/setup/installation-clis-setup-rclone.md",
+    "./commands/setup/setup-rclone.md"
+  ],
+  "keywords": [
+    "development",
+    "git-github"
+  ]
+}
