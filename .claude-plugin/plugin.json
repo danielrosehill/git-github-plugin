@@ -8,10 +8,7 @@
     "url": "https://danielrosehill.com"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/danielrosehill/git-github-plugin"
-  },
+  "repository": "https://github.com/danielrosehill/git-github-plugin",
   "commands": [
     "./commands/docs/add-repo-index.md",
     "./commands/docs/awesome-scratchpad.md",
